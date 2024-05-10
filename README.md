@@ -1,5 +1,9 @@
 # Chatbot - Agricultura Familiar
 
+
+Projeto desenvolvido durante a imersão de IA com Google Gemini promovida pela [Alura](https://alura.com.br) em parceria com a Google
+
+
 <table align="left">
   <td style="text-align: center">
     <a href="https://colab.research.google.com/drive/1CVpusnioJzdBHRWtpzGAvD7WbpbVpKM1?usp=sharing">
