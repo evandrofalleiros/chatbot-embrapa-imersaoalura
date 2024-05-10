@@ -17,6 +17,7 @@ Projeto desenvolvido durante a imersão de IA com Google Gemini promovida pela [
 | | |
 |-|-|
 |Autor | [Evandro Luís Souza Falleiros](https://ifms.edu.br) |
+|Contato | [evandro.falleiros@ifms.edu.br](mailto:evandro.falleiros@ifms.edu.br) |
 
 
 ## Apresentação
