@@ -1,6 +1,6 @@
 # Chatbot - Agricultura Familiar
 
-<table align="center">
+<table align="left">
   <td style="text-align: center">
     <a href="https://colab.research.google.com/drive/1CVpusnioJzdBHRWtpzGAvD7WbpbVpKM1?usp=sharing">
       <img src="https://cloud.google.com/ml-engine/images/colab-logo-32px.png" alt="Google Colaboratory logo"><br> Executar no Colab
