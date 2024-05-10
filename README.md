@@ -21,7 +21,7 @@ Projeto desenvolvido durante a imersão de IA com Google Gemini promovida pela [
 
 ## Apresentação
 
-A [Embrapa Agropecuária Oeste - CPAO](https://www.embrapa.br/agropecuaria-oeste) e o [Instituto Federal de Mato Grosso do Sul - Campus Dourados](https://www.ifms.edu.br/campi/campus-dourados) lançaram em Abril de 2024 o [Tecnogam App](https://tecnofamapp.cpao.embrapa.br/), uma PWA por meio do qual são disponibilizadas informações técnicas voltadas para a agricultura familiar.
+A [Embrapa Agropecuária Oeste - CPAO](https://www.embrapa.br/agropecuaria-oeste) e o [Instituto Federal de Mato Grosso do Sul - Campus Dourados](https://www.ifms.edu.br/campi/campus-dourados) lançaram em Abril de 2024 o [Tecnofam App](https://tecnofamapp.cpao.embrapa.br/), uma PWA por meio do qual são disponibilizadas informações técnicas voltadas para a agricultura familiar.
 
 Nessa aplicação, pequenos(as) produtores(as) tem acesso a um vasto e enriquecedor material que pode contribuir para o desenvolvimento das atividades em suas propriedades e instruir o produtor(a) rural com novos conhecimentos. 
 
