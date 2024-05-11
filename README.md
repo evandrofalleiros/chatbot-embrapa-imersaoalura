@@ -6,7 +6,7 @@ Projeto desenvolvido durante a imersão de IA com Google Gemini promovida pela [
 
 <table align="left">
   <td style="text-align: center">
-    <a href="https://colab.research.google.com/drive/1CVpusnioJzdBHRWtpzGAvD7WbpbVpKM1?usp=sharing">
+    <a href="https://colab.research.google.com/drive/1uP_uIH_wHpD164X7P1WuzYvJ02zif53I?usp=sharing">
       <img src="https://cloud.google.com/ml-engine/images/colab-logo-32px.png" alt="Google Colaboratory logo"><br> Executar no Colab
     </a>
   </td>  
